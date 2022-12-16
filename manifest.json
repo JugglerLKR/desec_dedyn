@@ -1,0 +1,8 @@
+{
+  "domain": "desec_dedyn",
+  "name": "deSEC dedyn.io dynamic dns",
+  "documentation": "https://github.com/JugglerLKR/desec_dedyn",
+  "codeowners": [],
+  "iot_class": "cloud_push",
+  "version": "0.1.0"
+}
