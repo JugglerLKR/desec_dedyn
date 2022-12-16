@@ -9,7 +9,7 @@ desec_dedyn:
   # access token in quotes
   access_token: "blablablaaV"
   protocol:
-    - ipv4 # (update ipv4 record)
-    - ipv6 # (update ipv6 record)
-  # if you don't want to set ipv4 or ipv6 records just comment them
+    - ipv4
+    - ipv6
+  # if you don't want to set either ipv4 or ipv6 records just comment or remove. this means also that correspoding ipv4 (A) or ipv6 (AAAA) dns record also be removed 
 ```
